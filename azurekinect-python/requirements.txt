@@ -1,0 +1,15 @@
+opencv-python
+open3d
+ctypes
+numpy
+matplotlib
+open3d
+black
+flake8
+isort
+flake8-isort
+mypy
+mypy-extensions
+pytest
+pytest-cov
+dataclasses
